@@ -10,7 +10,6 @@ while num1 > 0:
 			answers.append(product)
 			break
 		num2-=1
-	# Next round
 	num2=999
 	num1-=1
 answers.sort()
